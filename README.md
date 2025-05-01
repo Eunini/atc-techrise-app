@@ -104,7 +104,11 @@ Open: `http://your-ec2-public-ip:5000`
 
 ## 📸 Screenshots
 - Local deployment: `http://localhost:5000`
+- ![docker](https://github.com/user-attachments/assets/3ae0d317-dc3b-4554-8e8e-bd0ff7c237ea)
+
 - EC2 deployment: `http://<EC2-IP>:5000`
+- ![atc](https://github.com/user-attachments/assets/9f7b9dd8-7c93-449f-89d8-cef5119bb683)
+
 
 ---
 
